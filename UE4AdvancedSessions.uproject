@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B80ACD58-4FB7-5ECC-3F4B-BB97762C0323}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4AdvancedSessions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
